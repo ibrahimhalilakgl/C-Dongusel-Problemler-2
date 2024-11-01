@@ -13,52 +13,52 @@
     <h2 style="color: #555;">📑 Problemler</h2>
     <ul style="list-style-type: none; padding: 0;">
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem10.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/2/blob/main/problem1.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Verilen Bir Sayının Tam Bölenlerini Bulan Program
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem11.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem2.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Klavyeden Girilen a ve b Sayılarına Göre a^b Hesaplayan Program (Pow Kullanmadan)
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem12.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem3.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Bölme ve Çarpma Operatörü Kullanılmadan Bölme İşlemi Yapan Program
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem13.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem4.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Girilen Bir Sayının Basamak Değerlerini Yazdıran Program
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem14.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem5.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Girilen Sayıyı Ters Çeviren Program (Örn: 245 => 542)
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem15.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem6.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Palindrom Sayı Kontrol Programı (Örn: 242)
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem16.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem7.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Girilen Sayının Faktöriyelini Hesaplayan Program
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem17.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem8.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Fibonacci Serisinin İlk n Terimini Hesaplayan Program
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem18.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem9.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Girilen n Adet Sayı İçerisinden Pozitif, Negatif ve Sıfır Sayısını Bulan Program
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/blob/main/problem19.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem10.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Girilen Bir Sayının Asal Olup Olmadığını Bulan Program
             </a>
         </li>
