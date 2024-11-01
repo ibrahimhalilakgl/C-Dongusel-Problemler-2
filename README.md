@@ -13,7 +13,7 @@
     <h2 style="color: #555;">📑 Problemler</h2>
     <ul style="list-style-type: none; padding: 0;">
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
-            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler/2/blob/main/problem1.c" style="text-decoration: none; color: #333; font-weight: bold;">
+            <a href="https://github.com/ibrahimhalilakgl/C-Dongusel-Problemler-2/blob/main/problem1.c" style="text-decoration: none; color: #333; font-weight: bold;">
                 Verilen Bir Sayının Tam Bölenlerini Bulan Program
             </a>
         </li>
